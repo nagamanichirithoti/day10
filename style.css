@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+div{
+    margin-left: 30px;
+    background-color: #cab5c5;
+}
+summary{
+     color: #302aa6;
+    margin: 10px;
+    font-size: 20px;
+     
+}
+p{
+    margin-left: 30px;
+    padding: 6px;
+}
+ul,li{
+    margin-left: 30px;
+    padding: 6px;
+}
